@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ## About Me
 ```yaml
-🏢 Role    : Sr Technical Animator at Tencent in Central, Singapore.
-💡 Passion : "Fun-stack Developer" who prototypes playful systems.
-📝 Approach: Documents the process and shares notes for other builders.
-📧 Contact : mandl.cho@icloud.com.
+🏢 Role     : Sr Technical Animator at Tencent in Central, Singapore.
+💡 Passion  : "Fun-stack Developer" who prototypes playful systems.
+📝 Approach : Documents the process and shares notes for other builders.
+📧 Contact  : mandl.cho@icloud.com.
 ```
