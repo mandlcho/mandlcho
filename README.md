@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+## About
 ```yaml
-🏢 Role     : Sr Technical Animator at Tencent in Central, Singapore.
-💡 Passion  : "Fun-stack Developer" who prototypes playful systems.
-📝 Approach : Documents the process and shares notes for other builders.
-📧 Contact  : mandl.cho@icloud.com.
+🌏 : Central, Singapore
+🏢 : Sr Technical Animator @ Tencent 
+💡 : "Fun-stack Developer" who prototypes playful systems.
+📧 : mandl.cho@icloud.com.
 ```
