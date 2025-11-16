@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **mandlcho/mandlcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🏢 **Role:** Sr Technical Animator at Tencent in Central, Singapore.
-- 💡 **Passion:** "Fun-stack Developer" who prototypes playful systems.
-- 📝 **Approach:** Documents the process and shares notes for other builders.
-- 📧 **Contact:** mandl.cho@icloud.com.
+🏢 **Role:** Sr Technical Animator at Tencent in Central, Singapore.
+💡 **Passion:** "Fun-stack Developer" who prototypes playful systems.
+📝 **Approach:** Documents the process and shares notes for other builders.
+📧 **Contact:** mandl.cho@icloud.com.
