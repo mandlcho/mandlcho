@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+
+Mandl Cho is a Sr Technical Animator at Tencent in Central, Singapore. They are also a "Fun-stack Developer" who prototypes playful systems, documents the process, and shares notes for other builders. Their contact email is mandl.cho@icloud.com.
