@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📝 **Approach:** Documents the process and shares notes for other builders.
 - 📧 **Contact:** mandl.cho@icloud.com.
 
-## Stacks I Use
+## Stacks
 
 | Frontend | Backend / Data | DevOps / Tooling |
 | --- | --- | --- |
