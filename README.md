@@ -1,31 +1,43 @@
 # Mandl Cho
 
-Senior Technical Animator (Tencent, Singapore) who builds production-friendly tools and documents the build process.
+Product builder shipping workflow tools and prototypes with clear input/output loops, tight scope, and measurable outcomes.
 
-## What I do
-- Technical animation + tools for production workflows
-- Rapid prototyping across DCC ↔ engine pipelines (MotionBuilder/3ds Max/Unreal)
-- Small utilities and experiments with clear install and repeatable workflows
+Singapore.
 
-## Featured projects (pinned / recent)
-- **blueprint-gpt** — generate and preview UE Blueprints from natural language; includes a web editor and node dataset tooling
-- **MotionKit** — deployable multi-DCC toolset for MotionBuilder and 3ds Max
-- **p4chimari** — a Windows tool to manage Perforce workspace changes (UE-friendly workflow)
-- **anyhowtrade** — TradingView Pine indicators/strategies for options workflows
-- **anyhowhodl** — terminal portfolio + options tracker backed by Supabase
+## Selected work
 
-## Current focus
-- Shipping tools with low setup friction (install paths, fewer hidden dependencies)
-- Improving iteration loops inside Unreal + DCCs (debuggability, repeatability)
-- LLM-assisted tooling where it reduces real workflow cost
+### SpendWhat? (in progress)
+Telegram-first expense capture + web one-pager insights.
+- Repo: https://github.com/mandlcho/SpendWhat
+- Focus: minimal setup, minimal dependencies, privacy-respecting by default.
+- Core loop: capture (Telegram) → normalize (rules) → review (needs_review) → insight (MTD, category/merchant).
+
+### MotionKit
+Deployable multi-DCC pipeline toolset for MotionBuilder and 3ds Max.
+- Repo: https://github.com/mandlcho/MotionKit
+- Focus: repeatable installs, discoverability via menus, team-friendly distribution.
+
+### p4chimari
+A Windows tool to manage Perforce workspace changes with an Unreal Engine-style workflow.
+- Repo: https://github.com/mandlcho/p4chimari
+- Focus: safer reconcile/revert workflows, reduced changelist noise, fast cleanup.
+
+### blueprint-gpt
+Generate, preview, and edit Unreal Engine Blueprint graphs in the browser.
+- Repo: https://github.com/mandlcho/blueprint-gpt
+- Focus: shorten the “intent → node graph” loop; dataset tooling for blueprint nodes.
+
+## Product work (analysis)
+I write teardown notes and roadmaps the same way I would for a product team.
+- Firefly III analysis: why it works (rules + recurring + reports + API-first) and where to beat it.
+- Agamotto (wheel strategy manager): what’s strong (strategy grouping + action-oriented monitor) and what to improve (alerts, explainability, broker sync).
+
+## How I work
+- Start with the input loop: capture frictionlessly, then make output worth it.
+- Prototype early, measure quickly, cut scope aggressively.
+- Prefer simple, auditable rules before adding “AI”.
+- Design for ops: defaults, safety rails, and failure modes.
 
 ## Contact
-- Email: `mandl.cho@icloud.com`
-- GitHub: https://github.com/mandlcho
+- Email: mandl.cho@icloud.com
 - LinkedIn: https://www.linkedin.com/in/mandlcho/
-
-## Tech stack (high level)
-- Frontend: React/Vite, SCSS
-- Tooling: TypeScript, Python, Go
-- Engine/DCC: Unreal, MotionBuilder, 3ds Max
-- Infra: GitHub Actions, Jekyll
