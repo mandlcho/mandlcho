@@ -27,11 +27,6 @@ Generate, preview, and edit Unreal Engine Blueprint graphs in the browser.
 - Repo: https://github.com/mandlcho/blueprint-gpt
 - Focus: shorten the “intent → node graph” loop; dataset tooling for blueprint nodes.
 
-## Product work (analysis)
-I write teardown notes and roadmaps the same way I would for a product team.
-- Firefly III analysis: why it works (rules + recurring + reports + API-first) and where to beat it.
-- Agamotto (wheel strategy manager): what’s strong (strategy grouping + action-oriented monitor) and what to improve (alerts, explainability, broker sync).
-
 ## How I work
 - Start with the input loop: capture frictionlessly, then make output worth it.
 - Prototype early, measure quickly, cut scope aggressively.
