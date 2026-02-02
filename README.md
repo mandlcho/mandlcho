@@ -14,7 +14,7 @@ I own the full stack—from understanding the problem to shipping code to managi
 
 **MotionKit** — Product owner and architect for a deployment-ready pipeline toolset used across animation studios. Born from years of building pipelines in games, it's designed for teams that need reliable, repeatable installs and frictionless workflows. Shipping real value for real studios.
 
-**FindIt** — Built because people needed a better way to find jobs in a broken market. Open source, designed for public good. Proof that you can solve meaningful problems outside the game industry.
+**FindIt** — Built to help people find nearby public toilets with ease. Open source, designed for public good.
 
 **Pipeline & Animation Systems** — Motion editors, blending engines, reconciliation tools. Systems that scale to millions of concurrent players. Tools that save animators and technical directors hours every week.
 
