@@ -1,33 +1,34 @@
-# Mandl Cho
+## Who I Am
 
-Product builder shipping workflow tools and prototypes with clear input/output loops, tight scope, and measurable outcomes.
+I'm a **Technical Animator** with 8+ years of experience turning vague creative briefs into working animation systems that millions of players experience every day. My role sits at the intersection of **Design**, **Engineering**, and **Animation**—which means I'm constantly figuring out how to ship ambiguous ideas at scale.
 
-Singapore.
+## How I Work
 
-## Selected work
+**Identify → Prototype → Validate → Ship**
 
-### SpendWhat? (in progress)
-Telegram-first expense capture + web one-pager insights.
-- Repo: https://github.com/mandlcho/SpendWhat
-- Focus: minimal setup, minimal dependencies, privacy-respecting by default.
-- Core loop: capture (Telegram) → normalize (rules) → review (needs_review) → insight (MTD, category/merchant).
+- 🔍 **Identify pain points** through direct observation of animators and systems
+- ⚡ **Rapid prototyping** in code before committing engineering resources  
+- ✅ **Validate ideas** through user feedback and real-world testing
+- 🔄 **Iterate fast** based on what actually resonates
 
-### MotionKit
-Deployable multi-DCC pipeline toolset for MotionBuilder and 3ds Max.
-- Repo: https://github.com/mandlcho/MotionKit
-- Focus: repeatable installs, discoverability via menus, team-friendly distribution.
+I write user stories to clarify requirements, manage roadmaps across competing priorities, and kill ideas that don't move the needle. I'm drawn to environments with operating philosophies like **proactively identify problems → prototype with real users → validate what works → scale it**.
 
-### p4chimari
-A Windows tool to manage Perforce workspace changes with an Unreal Engine-style workflow.
-- Repo: https://github.com/mandlcho/p4chimari
-- Focus: safer reconcile/revert workflows, reduced changelist noise, fast cleanup.
+## What I Build
 
-## How I work
-- Start with the input loop: capture frictionlessly, then make output worth it.
-- Prototype early, measure quickly, cut scope aggressively.
-- Prefer simple, auditable rules before adding “AI”.
-- Design for ops: defaults, safety rails, and failure modes.
+| Category | Examples |
+| --- | --- |
+| **Animation Systems** | Motion editors, blending engines, procedural systems that scale to millions of players |
+| **Prototyping & Tools** | Rapid validation frameworks, iteration-focused tooling for design-engineering handoff |
+| **Documentation** | Process notes, architecture guides, and knowledge sharing for other builders |
 
-## Contact
-- Email: mandl.cho@icloud.com
-- LinkedIn: https://www.linkedin.com/in/mandlcho/
+## Skills & Stack
+
+| Frontend | Backend / Data | Animation / Game | DevOps / Tooling |
+| --- | --- | --- | --- |
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-A100FF?logo=google&logoColor=white) | ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine&logoColor=white) | ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&logoColor=white) ![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) |
+
+## Currently
+
+Sr Technical Animator at **Tencent** (Singapore). Always interested in projects that combine creative ambiguity with technical rigor.
+
+📧 **mandl.cho@icloud.com** | 🌐 **[Portfolio](https://mandlcho.github.io)** | 💼 **[LinkedIn](https://linkedin.com/in/mandlcho)**
