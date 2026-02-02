@@ -22,11 +22,6 @@ A Windows tool to manage Perforce workspace changes with an Unreal Engine-style 
 - Repo: https://github.com/mandlcho/p4chimari
 - Focus: safer reconcile/revert workflows, reduced changelist noise, fast cleanup.
 
-### blueprint-gpt
-Generate, preview, and edit Unreal Engine Blueprint graphs in the browser.
-- Repo: https://github.com/mandlcho/blueprint-gpt
-- Focus: shorten the “intent → node graph” loop; dataset tooling for blueprint nodes.
-
 ## How I work
 - Start with the input loop: capture frictionlessly, then make output worth it.
 - Prototype early, measure quickly, cut scope aggressively.
