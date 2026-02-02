@@ -1,17 +1,19 @@
-I'm a Technical Animator. For 8+ years I've been building animation systems that millions of players use. I work at the messy intersection of design, engineering, and animation—figuring out how to ship things when the requirements are still fuzzy.
+I build products that solve real problems. For 8+ years I've shipped animation systems for millions of players by obsessing over what actually breaks workflows and then building the thing that fixes it.
 
-## How I approach work
+My approach: **watch → identify the real friction → prototype → validate with users → ship**.
 
-Watch what animators actually struggle with. Build something fast. Show it to people and listen. Iterate based on what actually works, not what I think should work.
+I don't wait for perfect specs. I move fast. I talk to the people doing the work, understand what's actually broken, code a solution, put it in their hands, and iterate based on what they actually need. 
 
-I write specs, manage priorities, and kill projects that don't resonate. I'm drawn to teams that work this way—identify a real problem, prototype with users, validate, then scale.
+I own the full stack—from understanding the problem to shipping code to managing what gets built next. I kill projects that don't move the needle and double down on what works.
 
-## Stack
+## What I build
 
-React, TypeScript, Python, Unreal Engine, SCSS, Vite, Jekyll
+Animation systems and developer tools that cut through friction. Real products solving real problems—whether that's motion editors that actually work for riggers, pipeline tools that save hours of wasted time, or systems that scale to millions of concurrent users.
+
+## Current work
+
+Sr Technical Animator at Tencent (Singapore). Building systems that work for the people using them.
 
 ---
-
-Sr Technical Animator at Tencent (Singapore)
 
 📧 mandl.cho@icloud.com | [Portfolio](https://mandlcho.github.io) | [LinkedIn](https://linkedin.com/in/mandlcho)
