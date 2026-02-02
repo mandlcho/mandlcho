@@ -1,6 +1,6 @@
-I build products that solve real problems. For 8+ years I've shipped animation systems for millions of players by obsessing over what actually breaks workflows and then building the thing that fixes it.
+I build products that solve real problems. For 8+ years I've shipped animation systems for millions of players.
 
-## How I approach work
+## How I work
 
 Watch what animators actually struggle with. Build something fast. Show it to people and listen. Iterate based on what actually works, not what I think should work.
 
@@ -8,9 +8,9 @@ I write specs, manage priorities, and kill projects that don't resonate. I'm dra
 
 I own the full stack—from understanding the problem to shipping code to managing what gets built next. I move fast because I validate early, and I focus on problems that actually matter.
 
-## What I build
+## What I've built
 
-Animation systems and developer tools that cut through friction. Real products solving real problems—whether that's motion editors that actually work for riggers, pipeline tools that save hours of wasted time, or systems that scale to millions of concurrent users.
+Animation systems and developer tools that cut through friction. Motion editors that actually work for riggers, pipeline tools that save hours of wasted time, systems that scale to millions of concurrent users.
 
 ## Current work
 
