@@ -4,7 +4,7 @@ I build products that solve real problems. For 8+ years I've shipped animation s
 
 ## How I work
 
-Watch what animators actually struggle with. Build something fast. Show it to people and listen. Iterate based on what actually works, not what I think should work.
+Watch what animators actually struggle with. Build something fast. Show it to people and _listen_. **Iterate based on what actually works, not what I think should work**.
 
 I write specs, manage priorities, and kill projects that don't resonate. I'm drawn to teams that work this way—identify a real problem, prototype with users, validate, then scale.
 
