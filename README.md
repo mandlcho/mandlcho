@@ -1,6 +1,6 @@
 # Mandl Cho
 
-I build products that solve real problems. For 8+ years I've shipped animation systems for millions of players.
+I build products that solve real problems. For 8+ years I've shipped animation systems enjoyed by millions of players.
 
 ## How I work
 
